@@ -11,10 +11,14 @@
             "id": "cb9af7776a1683b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "再出发计划！/欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ]
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "再出发计划！/欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb9af7776a1683b1",
+  "active": "bb045ae0d68f39cb",
   "lastOpenFiles": [
     "再出发计划！/欢迎.md",
     "再出发计划！"
