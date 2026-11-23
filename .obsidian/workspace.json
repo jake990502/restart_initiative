@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "再出发计划！/欢迎.md",
+                "file": "再出发计划！/创建链接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "创建链接"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "再出发计划！/欢迎.md",
+                "file": "再出发计划！/创建链接.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,8 @@
   },
   "active": "cb9af7776a1683b1",
   "lastOpenFiles": [
-    "创建链接.md",
     "再出发计划！/欢迎.md",
+    "再出发计划！/创建链接.md",
     "未命名.md",
     "未命名",
     "再出发计划！"
